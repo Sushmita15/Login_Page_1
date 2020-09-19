@@ -6,6 +6,9 @@ Flutter LogIn Page.
 
 <img width="248" alt="Screen Shot 2020-09-19 at 6 37 02 AM" src="https://user-images.githubusercontent.com/62869138/93665201-a74f5080-fa42-11ea-8054-4107643407d7.png">
 
+<img width="347" alt="Screen Shot 2020-09-19 at 6 44 01 AM" src="https://user-images.githubusercontent.com/62869138/93665330-99e69600-fa43-11ea-8396-2fef027f452f.png">
+
+
 
 This project is a starting point for a Flutter application.
 
