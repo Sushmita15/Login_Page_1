@@ -4,8 +4,7 @@ Flutter LogIn Page.
 
 ## Screetshots
 
-
-<img width="360" alt="Screen Shot 2020-09-19 at 6 46 48 AM" src="https://user-images.githubusercontent.com/62869138/93665380-f9dd3c80-fa43-11ea-9a97-921c1ec1d84a.png">
+<img width="344" alt="Screen Shot 2020-09-19 at 6 46 48 AM" src="https://user-images.githubusercontent.com/62869138/93665452-96074380-fa44-11ea-8dc4-c57d247d9b05.png">
 
 <img width="347" alt="Screen Shot 2020-09-19 at 6 44 01 AM" src="https://user-images.githubusercontent.com/62869138/93665330-99e69600-fa43-11ea-8396-2fef027f452f.png">
 
