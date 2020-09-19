@@ -1,8 +1,11 @@
-# login_1
+# Login Page Design 1
 
 Flutter LogIn Page.
 
-## Getting Started
+## Screetshots
+
+<img width="248" alt="Screen Shot 2020-09-19 at 6 37 02 AM" src="https://user-images.githubusercontent.com/62869138/93665201-a74f5080-fa42-11ea-8054-4107643407d7.png">
+
 
 This project is a starting point for a Flutter application.
 
